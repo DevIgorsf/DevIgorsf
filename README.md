@@ -1,31 +1,104 @@
-## Olá, sou o Igor 👋
+# Olá, eu sou o Igor Soares Fernandes 👋
 
-- 🔭 Hoje trabalho como desenvolvedor Full Stack
-- 📫 Pode me encontra pelo número (37)99874-5638
+## 💻 Sobre mim
 
-## Hards Skills
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-<a href="https://github.com/DevIgorsf">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevIgorsf&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevIgorsf&theme=dracula&hide_border=false&&layout=compact" />
+Sou **Engenheiro de Software** e atualmente atuo como **Especialista em Desenvolvimento de Software e Líder Técnico**, desenvolvendo soluções escaláveis para transformação digital.
+
+Tenho mais de **5 anos de experiência** no desenvolvimento de aplicações utilizando **Java, Spring Boot, Laravel, Angular e Python**, além de experiência com arquitetura de software, liderança técnica e evolução de sistemas monolíticos para arquiteturas modernas.
+
+Meu foco é construir software de qualidade utilizando princípios como **DDD**, **Clean Architecture**, **SOLID**, **TDD**, **CI/CD** e Microsserviços, sempre alinhando tecnologia aos objetivos do negócio.
+
+---
+
+## 🚀 Atualmente
+
+- 🔭 Especialista em Desenvolvimento de Software
+- 👨‍💻 Líder Técnico de aplicações Laravel e Spring Boot
+- 🏗️ Arquitetura de Software
+- 🌱 Estudando continuamente Arquitetura, DDD e Microsserviços
+- 🎓 MBA em Engenharia de Software (USP/ESALQ)
+- 📫 Contato: **(37) 99874-5638**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+### DevOps & Ferramentas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 📚 Áreas de Interesse
+
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Microsserviços
+- Backend for Frontend (BFF)
+- Arquitetura de Software
+- Liderança Técnica
+- Automação de Processos (Python)
+- CI/CD
+- Engenharia de Software
+
+---
+
+## 🌎 Onde me encontrar
+
+<p>
+
+<a href="https://wa.me/5537998745638">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-## Contato
- <a href="https://wa.me/5537998745638" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="mailto:iigorsf.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-soares-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href="mailto:iigorsf.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/igor-soares-fernandes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/DevIgorsf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://portfoliowebsitecontent-igor-soares-fernades.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+</p>
